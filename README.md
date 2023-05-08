@@ -156,3 +156,7 @@ sales for thousands of items.
 -   Fair: Model has RMSLE of 0.4
 
 -   Poor: Model has RMSLE of 0.4 +
+
+
+Author
+Henry Nii Ayitey-Adjin
